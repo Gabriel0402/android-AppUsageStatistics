@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:17:1-37:12
+MERGED from [com.android.support:support-v13:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/8d0231e36e3f5b162806de5140b4f5b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/57816088f797831e58f6cf66171be36d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/6ef4a0ce5ed3326f4e61e8c76bbe6be2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2ba95a14969fbbf11d080a96421c7fa8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/2f972de843385305d0c5bafa6853be2e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/fb51e9408790eafe1d7a1a7a59776253/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/c7492268cad696ee895c65c15c2bebfe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/53b1ae8a12ad2e5326f0dd24c64b88b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e7e5f0dbd6fc1d06eda9ac93895711b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/372a4aeee5546e5f94969918fe88dd03/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/9df0675f43883ca11e2009b6b59a44f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/be750679b017bcc881a40cb2befdbd00/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e67e24327dacc8e22eac2697e63d183d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f07757c72a8286e93d4e70b478507a8c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6c3550cb6b1735cb34dd986c717f978c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/20b39bb4b8eb43d6092ee7f4a970b870/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:17:1-37:12
+	package
+		ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:18:5-53
+	android:versionName
+		ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:22:5-77
+	android:name
+		ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:22:22-75
+application
+ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:24:5-36:19
+	android:label
+		ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:26:9-45
+	android:allowBackup
+		ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:24:18-44
+	android:theme
+		ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:27:9-53
+activity#com.example.android.appusagestatistics.AppUsageStatisticsActivity
+ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:29:9-35:20
+	android:label
+		ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:30:19-51
+	android:name
+		ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:29:19-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/8d0231e36e3f5b162806de5140b4f5b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/8d0231e36e3f5b162806de5140b4f5b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/57816088f797831e58f6cf66171be36d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/57816088f797831e58f6cf66171be36d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/6ef4a0ce5ed3326f4e61e8c76bbe6be2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/6ef4a0ce5ed3326f4e61e8c76bbe6be2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2ba95a14969fbbf11d080a96421c7fa8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2ba95a14969fbbf11d080a96421c7fa8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/2f972de843385305d0c5bafa6853be2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/2f972de843385305d0c5bafa6853be2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/fb51e9408790eafe1d7a1a7a59776253/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/fb51e9408790eafe1d7a1a7a59776253/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/c7492268cad696ee895c65c15c2bebfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/c7492268cad696ee895c65c15c2bebfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/53b1ae8a12ad2e5326f0dd24c64b88b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/53b1ae8a12ad2e5326f0dd24c64b88b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e7e5f0dbd6fc1d06eda9ac93895711b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e7e5f0dbd6fc1d06eda9ac93895711b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/372a4aeee5546e5f94969918fe88dd03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/372a4aeee5546e5f94969918fe88dd03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/9df0675f43883ca11e2009b6b59a44f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/9df0675f43883ca11e2009b6b59a44f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/be750679b017bcc881a40cb2befdbd00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/be750679b017bcc881a40cb2befdbd00/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e67e24327dacc8e22eac2697e63d183d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e67e24327dacc8e22eac2697e63d183d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f07757c72a8286e93d4e70b478507a8c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f07757c72a8286e93d4e70b478507a8c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6c3550cb6b1735cb34dd986c717f978c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6c3550cb6b1735cb34dd986c717f978c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/20b39bb4b8eb43d6092ee7f4a970b870/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/chenyang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/20b39bb4b8eb43d6092ee7f4a970b870/AndroidManifest.xml:20:5-44
+INJECTED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenyang/Desktop/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
